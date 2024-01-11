@@ -4,4 +4,4 @@
 - O aplicativo está em fase de desenvolvimento, com a implementação da funcionalidade de login e exibição de uma lista de modelos de dados.
 - A estrutura do código segue boas práticas de programação e separação de responsabilidades, proporcionando uma base sólida para futuras melhorias.
 
-![Uploading Captura de Tela 2024-01-11 às 13.37.43.png…]()
+<img width="300" alt="image" src="https://github.com/diegofgl/AppEstudo/assets/122054408/986de5ca-b664-468c-b801-841992c58c12">
